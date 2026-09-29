@@ -1,1 +1,11 @@
-{ "network": "", "deployed_at": "", "contracts": {} }
+{
+  "network": "testnet",
+  "deployed_at": "2026-09-29T12:57:14.398283539+00:00",
+  "contracts": {
+    "handoff": {
+      "contract_id": "ST2MQSTKKFZCDFWFNZJ60NZHSHQCF0Z2HNY6E9ETF.handoff",
+      "tx_id": "0x1d301927d47af44222bbbe4e27773bf27f5520081e153c8c22980ae264f0f092",
+      "block_height": 0
+    }
+  }
+}
