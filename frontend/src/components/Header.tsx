@@ -32,7 +32,7 @@ function Header() {
 
       <div className='flex items-center space-x-4 md:space-x-6'>
       <a 
-            href="https://github.com/scaffold-stack/scaffold-stack" 
+            href="https://github.com/dumbdev/handoff" 
             target="_blank" 
             rel="noopener noreferrer"
             className="no-underline" 
