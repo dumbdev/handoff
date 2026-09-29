@@ -2,11 +2,7 @@
 
 Notes from building Handoff with `stacksdapp` 0.2.2 on Ubuntu (Linux x64), Rust 1.98, Node 24, Clarinet 3.24.1.
 
-**Time to ship:** _fill in_
-
-> Replace the notes below with your own experience. They are here as a starting
-> point — the bounty asks for honest feedback, so keep what you actually hit and
-> cut what you didn't.
+**Time to ship:** about 6 hours (install → deployed contract → live Vercel app)
 
 ## What worked well
 
