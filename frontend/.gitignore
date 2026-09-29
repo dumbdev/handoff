@@ -7,3 +7,6 @@ out/
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+
+# Keep the committed production network setting (vercel link appends .env*)
+!.env.production
